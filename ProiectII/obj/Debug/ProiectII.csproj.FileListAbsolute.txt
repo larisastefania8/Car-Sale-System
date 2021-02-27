@@ -1,0 +1,56 @@
+C:\Users\Leonard\source\repos\ProiectII\ProiectII\bin\Debug\ProiectII.exe.config
+C:\Users\Leonard\source\repos\ProiectII\ProiectII\bin\Debug\ProiectII.exe
+C:\Users\Leonard\source\repos\ProiectII\ProiectII\bin\Debug\ProiectII.pdb
+C:\Users\Leonard\source\repos\ProiectII\ProiectII\bin\Debug\VisualReactiveWinForms.dll
+C:\Users\Leonard\source\repos\ProiectII\ProiectII\bin\Debug\VisualReactiveWinForms.xml
+C:\Users\Leonard\source\repos\ProiectII\ProiectII\obj\Debug\ProiectII.csprojAssemblyReference.cache
+C:\Users\Leonard\source\repos\ProiectII\ProiectII\obj\Debug\ProiectII.Form1.resources
+C:\Users\Leonard\source\repos\ProiectII\ProiectII\obj\Debug\ProiectII.Properties.Resources.resources
+C:\Users\Leonard\source\repos\ProiectII\ProiectII\obj\Debug\ProiectII.csproj.GenerateResource.cache
+C:\Users\Leonard\source\repos\ProiectII\ProiectII\obj\Debug\ProiectII.csproj.CopyComplete
+C:\Users\Leonard\source\repos\ProiectII\ProiectII\obj\Debug\ProiectII.exe
+C:\Users\Leonard\source\repos\ProiectII\ProiectII\obj\Debug\ProiectII.pdb
+C:\Users\Leonard\source\repos\ProiectII\ProiectII\obj\Debug\ProiectII.UserControl1.resources
+C:\Users\Leonard\source\repos\ProiectII\ProiectII\obj\Debug\ProiectII.UserControl2.resources
+C:\Users\Leonard\source\repos\ProiectII\ProiectII\obj\Debug\ProiectII.UserControl3.resources
+C:\Users\Leonard\source\repos\ProiectII\ProiectII\bin\Debug\Database1.mdf
+C:\Users\Leonard\source\repos\ProiectII\ProiectII\bin\Debug\Database1_log.ldf
+C:\Users\Leonard\source\repos\ProiectII\ProiectII\obj\Debug\ProiectII.Form2.resources
+C:\Users\Larisa\Desktop\ProiectII\ProiectII\bin\Debug\Database1.mdf
+C:\Users\Larisa\Desktop\ProiectII\ProiectII\bin\Debug\Database1_log.ldf
+C:\Users\Larisa\Desktop\ProiectII\ProiectII\bin\Debug\ProiectII.exe.config
+C:\Users\Larisa\Desktop\ProiectII\ProiectII\bin\Debug\ProiectII.exe
+C:\Users\Larisa\Desktop\ProiectII\ProiectII\bin\Debug\ProiectII.pdb
+C:\Users\Larisa\Desktop\ProiectII\ProiectII\bin\Debug\VisualReactiveWinForms.dll
+C:\Users\Larisa\Desktop\ProiectII\ProiectII\bin\Debug\VisualReactiveWinForms.xml
+C:\Users\Larisa\Desktop\ProiectII\ProiectII\obj\Debug\ProiectII.csprojAssemblyReference.cache
+C:\Users\Larisa\Desktop\ProiectII\ProiectII\obj\Debug\ProiectII.Form1.resources
+C:\Users\Larisa\Desktop\ProiectII\ProiectII\obj\Debug\ProiectII.Form2.resources
+C:\Users\Larisa\Desktop\ProiectII\ProiectII\obj\Debug\ProiectII.Properties.Resources.resources
+C:\Users\Larisa\Desktop\ProiectII\ProiectII\obj\Debug\ProiectII.UserControl1.resources
+C:\Users\Larisa\Desktop\ProiectII\ProiectII\obj\Debug\ProiectII.UserControl2.resources
+C:\Users\Larisa\Desktop\ProiectII\ProiectII\obj\Debug\ProiectII.UserControl3.resources
+C:\Users\Larisa\Desktop\ProiectII\ProiectII\obj\Debug\ProiectII.csproj.GenerateResource.cache
+C:\Users\Larisa\Desktop\ProiectII\ProiectII\obj\Debug\ProiectII.csproj.CoreCompileInputs.cache
+C:\Users\Larisa\Desktop\ProiectII\ProiectII\obj\Debug\ProiectII.csproj.CopyComplete
+C:\Users\Larisa\Desktop\ProiectII\ProiectII\obj\Debug\ProiectII.exe
+C:\Users\Larisa\Desktop\ProiectII\ProiectII\obj\Debug\ProiectII.pdb
+C:\Users\tufal\OneDrive\Desktop\Proiect II\ProiectII\ProiectII\bin\Debug\Database1.mdf
+C:\Users\tufal\OneDrive\Desktop\Proiect II\ProiectII\ProiectII\bin\Debug\Database1_log.ldf
+C:\Users\tufal\OneDrive\Desktop\Proiect II\ProiectII\ProiectII\bin\Debug\ProiectII.exe.config
+C:\Users\tufal\OneDrive\Desktop\Proiect II\ProiectII\ProiectII\bin\Debug\ProiectII.exe
+C:\Users\tufal\OneDrive\Desktop\Proiect II\ProiectII\ProiectII\bin\Debug\ProiectII.pdb
+C:\Users\tufal\OneDrive\Desktop\Proiect II\ProiectII\ProiectII\bin\Debug\VisualReactiveWinForms.dll
+C:\Users\tufal\OneDrive\Desktop\Proiect II\ProiectII\ProiectII\bin\Debug\VisualReactiveWinForms.xml
+C:\Users\tufal\OneDrive\Desktop\Proiect II\ProiectII\ProiectII\obj\Debug\ProiectII.csprojAssemblyReference.cache
+C:\Users\tufal\OneDrive\Desktop\Proiect II\ProiectII\ProiectII\obj\Debug\ProiectII.Form1.resources
+C:\Users\tufal\OneDrive\Desktop\Proiect II\ProiectII\ProiectII\obj\Debug\ProiectII.Form2.resources
+C:\Users\tufal\OneDrive\Desktop\Proiect II\ProiectII\ProiectII\obj\Debug\ProiectII.Properties.Resources.resources
+C:\Users\tufal\OneDrive\Desktop\Proiect II\ProiectII\ProiectII\obj\Debug\ProiectII.UserControl1.resources
+C:\Users\tufal\OneDrive\Desktop\Proiect II\ProiectII\ProiectII\obj\Debug\ProiectII.UserControl2.resources
+C:\Users\tufal\OneDrive\Desktop\Proiect II\ProiectII\ProiectII\obj\Debug\ProiectII.UserControl3.resources
+C:\Users\tufal\OneDrive\Desktop\Proiect II\ProiectII\ProiectII\obj\Debug\ProiectII.csproj.GenerateResource.cache
+C:\Users\tufal\OneDrive\Desktop\Proiect II\ProiectII\ProiectII\obj\Debug\ProiectII.csproj.CoreCompileInputs.cache
+C:\Users\tufal\OneDrive\Desktop\Proiect II\ProiectII\ProiectII\obj\Debug\ProiectII.csproj.CopyComplete
+C:\Users\tufal\OneDrive\Desktop\Proiect II\ProiectII\ProiectII\obj\Debug\ProiectII.exe
+C:\Users\tufal\OneDrive\Desktop\Proiect II\ProiectII\ProiectII\obj\Debug\ProiectII.pdb
